@@ -1,0 +1,1307 @@
+[
+  {
+    "Name": "Jamaican Jerk Chicken",
+    "Rating": "?????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Chicken",
+    "Link": ""
+  },
+  {
+    "Name": "Pasta Salad",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Salad",
+    "Prep Time": 20,
+    "Ingredients": "Kielbasa,Noodles",
+    "Link": ""
+  },
+  {
+    "Name": "Lasagna",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Sausage,Noodles",
+    "Link": ""
+  },
+  {
+    "Name": "Hearty Pancakes",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Breakfast",
+    "Prep Time": 20,
+    "Ingredients": "Milk,Eggs,Corn Meal",
+    "Link": ""
+  },
+  {
+    "Name": "Summer Garden Couscous Salad",
+    "Rating": "????",
+    "Ease of Prep": "Hard",
+    "Type": "Salad",
+    "Prep Time": 30,
+    "Ingredients": "Vegetarian",
+    "Link": ""
+  },
+  {
+    "Name": "Squash Corn Chowder",
+    "Rating": "??",
+    "Ease of Prep": "Hard",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Vegetarian,Potatoes",
+    "Link": ""
+  },
+  {
+    "Name": "White beans, tomatoes, and spinach",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Rice,Vegetarian,Beans,Eggs",
+    "Link": ""
+  },
+  {
+    "Name": "Spaghetti",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 15,
+    "Ingredients": "Noodles,Marinara Sauce",
+    "Link": ""
+  },
+  {
+    "Name": "Scones",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Baking Basics",
+    "Prep Time": 45,
+    "Ingredients": "",
+    "Link": ""
+  },
+  {
+    "Name": "Pizza",
+    "Rating": "?????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 120,
+    "Ingredients": "Sausage,Cheese",
+    "Link": ""
+  },
+  {
+    "Name": "Stir-Fry",
+    "Rating": "?????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 25,
+    "Ingredients": "Chicken,Rice",
+    "Link": ""
+  },
+  {
+    "Name": "Rustic Italian Tortellini Soup",
+    "Rating": "????",
+    "Ease of Prep": "Hard",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Sausage,Noodles,Cheese",
+    "Link": ""
+  },
+  {
+    "Name": "Swedish Meatballs",
+    "Rating": "???",
+    "Ease of Prep": "Very Difficult",
+    "Type": "Main Dish",
+    "Prep Time": 90,
+    "Ingredients": "Beef,Noodles,Eggs",
+    "Link": ""
+  },
+  {
+    "Name": "Barley Beef Skillet",
+    "Rating": "????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 25,
+    "Ingredients": "Beef",
+    "Link": ""
+  },
+  {
+    "Name": "Southwest Beef & Rice Skillet",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 25,
+    "Ingredients": "Beef,Rice,Beans",
+    "Link": ""
+  },
+  {
+    "Name": "Glazed Pork Chops with Corn Bread Dressing",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Pork",
+    "Link": ""
+  },
+  {
+    "Name": "Fried Rice",
+    "Rating": "????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 20,
+    "Ingredients": "Chicken,Eggs,Rice",
+    "Link": "https://www.tasteofhome.com/recipes/mom-s-fried-rice"
+  },
+  {
+    "Name": "Zesty Sausage & Beans",
+    "Rating": "?????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Sausage,Beans,Rice",
+    "Link": ""
+  },
+  {
+    "Name": "Prosciutto Pasta Toss",
+    "Rating": "??",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Noodles,Ham",
+    "Link": ""
+  },
+  {
+    "Name": "Cashew Chicken with Noodles",
+    "Rating": "?????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 20,
+    "Ingredients": "Noodles,Chicken",
+    "Link": ""
+  },
+  {
+    "Name": "Herb Chicken with Honey Butter",
+    "Rating": "???",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Chicken",
+    "Link": ""
+  },
+  {
+    "Name": "French Toast",
+    "Rating": "????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Breakfast",
+    "Prep Time": 10,
+    "Ingredients": "Eggs",
+    "Link": ""
+  },
+  {
+    "Name": "Swedish Pancakes",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Breakfast",
+    "Prep Time": 20,
+    "Ingredients": "Milk,Eggs",
+    "Link": ""
+  },
+  {
+    "Name": "Baked Cheddar Eggs & Potatoes",
+    "Rating": "?????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Potatoes,Bacon,Cheese,Eggs",
+    "Link": ""
+  },
+  {
+    "Name": "Baked Mostaccioli",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 90,
+    "Ingredients": "Noodles,Marinara Sauce,Cheese,Sausage",
+    "Link": ""
+  },
+  {
+    "Name": "Ravioli with Snap Peas",
+    "Rating": "????",
+    "Ease of Prep": "Hard",
+    "Type": "Main Dish",
+    "Prep Time": 40,
+    "Ingredients": "Noodles,Milk,Cheese",
+    "Link": ""
+  },
+  {
+    "Name": "Cloverleaf Rolls",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Side Dish",
+    "Prep Time": 30,
+    "Ingredients": "Milk",
+    "Link": ""
+  },
+  {
+    "Name": "Greek Yogurt and Honey Blueberry Muffins",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Breakfast",
+    "Prep Time": 30,
+    "Ingredients": "Eggs,Milk",
+    "Link": ""
+  },
+  {
+    "Name": "Whole Grain Waffles",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Breakfast",
+    "Prep Time": 25,
+    "Ingredients": "Eggs,Milk",
+    "Link": ""
+  },
+  {
+    "Name": "Lemon Bars",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Dessert",
+    "Prep Time": 60,
+    "Ingredients": "",
+    "Link": ""
+  },
+  {
+    "Name": "Qahaq Cookies",
+    "Rating": "??",
+    "Ease of Prep": "Average",
+    "Type": "Dessert",
+    "Prep Time": 30,
+    "Ingredients": "",
+    "Link": ""
+  },
+  {
+    "Name": "Blondies with Nutella",
+    "Rating": "??",
+    "Ease of Prep": "Hard",
+    "Type": "Dessert",
+    "Prep Time": 90,
+    "Ingredients": "",
+    "Link": ""
+  },
+  {
+    "Name": "Hot Chocolate",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Dessert",
+    "Prep Time": 10,
+    "Ingredients": "Milk",
+    "Link": ""
+  },
+  {
+    "Name": "Chocolate Mousse",
+    "Rating": "????",
+    "Ease of Prep": "Hard",
+    "Type": "Dessert",
+    "Prep Time": 30,
+    "Ingredients": "Eggs",
+    "Link": ""
+  },
+  {
+    "Name": "S'mores Cookie Bars",
+    "Rating": "????",
+    "Ease of Prep": "Hard",
+    "Type": "Dessert",
+    "Prep Time": 45,
+    "Ingredients": "",
+    "Link": ""
+  },
+  {
+    "Name": "Orange Chicken",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 40,
+    "Ingredients": "Chicken,Rice",
+    "Link": ""
+  },
+  {
+    "Name": "Tostadas",
+    "Rating": "???",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 20,
+    "Ingredients": "Chicken,Cheese",
+    "Link": ""
+  },
+  {
+    "Name": "Black Bean Stuffed Sweet Potatoes",
+    "Rating": "?",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 20,
+    "Ingredients": "Beans,Cheese",
+    "Link": ""
+  },
+  {
+    "Name": "Asian Shredded Beef",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Beef,Noodles",
+    "Link": ""
+  },
+  {
+    "Name": "Capellini with sausage, spinach, and jalapeno",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 40,
+    "Ingredients": "Sausage,Noodles",
+    "Link": ""
+  },
+  {
+    "Name": "Crispy Chicken with Kale",
+    "Rating": "??",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Chicken",
+    "Link": ""
+  },
+  {
+    "Name": "Roast Chicken Grain Bowl",
+    "Rating": "?",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Chicken",
+    "Link": ""
+  },
+  {
+    "Name": "Chicken thighs with barley and peas",
+    "Rating": "??",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Chicken",
+    "Link": ""
+  },
+  {
+    "Name": "Rice noodles with meatballs and bok choy",
+    "Rating": "????",
+    "Ease of Prep": "Hard",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Beef,Noodles",
+    "Link": ""
+  },
+  {
+    "Name": "Paprika Pork with Roasted Potatoes and Dill Cream",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Pork,Potatoes",
+    "Link": ""
+  },
+  {
+    "Name": "Chicken cutlets with carrot and kale salad",
+    "Rating": "???",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Chicken",
+    "Link": ""
+  },
+  {
+    "Name": "Gnocchi and sweet potatoes",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 20,
+    "Ingredients": "",
+    "Link": ""
+  },
+  {
+    "Name": "Shepherd's Pie",
+    "Rating": "????",
+    "Ease of Prep": "Hard",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Beef,Potatoes",
+    "Link": ""
+  },
+  {
+    "Name": "Garlic Parmesan Chicken",
+    "Rating": "??",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Chicken,Rice",
+    "Link": ""
+  },
+  {
+    "Name": "Turkey Pot Pie",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Turkey",
+    "Link": ""
+  },
+  {
+    "Name": "Balsamic Bacon Brussels Sprouts",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Side Dish",
+    "Prep Time": 40,
+    "Ingredients": "Bacon",
+    "Link": ""
+  },
+  {
+    "Name": "Lemon Red Potatoes",
+    "Rating": "??",
+    "Ease of Prep": "Super Simple",
+    "Type": "Side Dish",
+    "Prep Time": 150,
+    "Ingredients": "Potatoes",
+    "Link": ""
+  },
+  {
+    "Name": "Potato and Corn Chowder",
+    "Rating": "???",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 20,
+    "Ingredients": "Potatoes,Milk,Cheese",
+    "Link": ""
+  },
+  {
+    "Name": "Thai Chicken",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Chicken,Noodles,Eggs",
+    "Link": ""
+  },
+  {
+    "Name": "Italian Fagoli Vegetable Soup",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Vegetarian,Beans,Noodles",
+    "Link": ""
+  },
+  {
+    "Name": "Blueberry Pie",
+    "Rating": "?????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Dessert",
+    "Prep Time": 120,
+    "Ingredients": "",
+    "Link": ""
+  },
+  {
+    "Name": "Chocolate Pudding",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Dessert",
+    "Prep Time": 30,
+    "Ingredients": "",
+    "Link": ""
+  },
+  {
+    "Name": "Browned Butter Beets",
+    "Rating": "?????",
+    "Ease of Prep": "Hard",
+    "Type": "Side Dish",
+    "Prep Time": 120,
+    "Ingredients": "Beets,Breadcrumbs",
+    "Link": ""
+  },
+  {
+    "Name": "Turkey Soup with Homemade Noodles",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 120,
+    "Ingredients": "Turkey,Noodles",
+    "Link": ""
+  },
+  {
+    "Name": "Home fries",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Side Dish",
+    "Prep Time": 45,
+    "Ingredients": "Potatoes",
+    "Link": ""
+  },
+  {
+    "Name": "Chocolate Raspberry Torte",
+    "Rating": "?????",
+    "Ease of Prep": "Hard",
+    "Type": "Dessert",
+    "Prep Time": 60,
+    "Ingredients": "Eggs,Milk",
+    "Link": ""
+  },
+  {
+    "Name": "Golden Latte",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Drink",
+    "Prep Time": 20,
+    "Ingredients": "Milk",
+    "Link": ""
+  },
+  {
+    "Name": "Fig Shake",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Drink",
+    "Prep Time": 10,
+    "Ingredients": "Milk",
+    "Link": ""
+  },
+  {
+    "Name": "Lentil Soup",
+    "Rating": "???",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Lentils,Vegetarian,Carrots,Onion",
+    "Link": "http://www.recipetineats.com/lentil-soup/"
+  },
+  {
+    "Name": "Buckwheat Tabboulah",
+    "Rating": "?",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Buckwheat,Vegetarian,Carrots,Onion",
+    "Link": "http://rawmanda.com/buckwheat-tabbouleh/"
+  },
+  {
+    "Name": "Lentil Rice Bowls with Egg",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Rice,Lentils,Onion",
+    "Link": "https://www.thekitchn.com/recipe-brown-rice-bowl-with-lentils-caramelized-onions-fried-egg-223112"
+  },
+  {
+    "Name": "Italian Vegetable Lentil Soup",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Lentils,Onion,Vegetarian",
+    "Link": "http://www.cookingclassy.com/italian-vegetable-lentil-soup/"
+  },
+  {
+    "Name": "One Pot Chicken & Potatoes",
+    "Rating": "????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 90,
+    "Ingredients": "Potatoes,Chicken,Carrots,Onion",
+    "Link": "http://letthebakingbeginblog.com/2014/05/one-pot-chicken-potatoes/"
+  },
+  {
+    "Name": "Sweet Korean Lentils",
+    "Rating": "?????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Lentils,Rice,Onion",
+    "Link": "https://itdoesnttastelikechicken.com/easyrecipe-print/7850-0/"
+  },
+  {
+    "Name": "Buckwheat Beetroot Salad",
+    "Rating": "???",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Beets,Buckwheat",
+    "Link": "https://www.lazycatkitchen.com/warm-buckwheat-beetroot-salad/"
+  },
+  {
+    "Name": "New Potato Lentil Salad",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 50,
+    "Ingredients": "Potatoes,Lentils",
+    "Link": "http://www.occasionallyeggs.com/2016/08/roasted-new-potato-salad-with-lentils.html"
+  },
+  {
+    "Name": "Ham & Potato Soup",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Potatoes,Ham,Onion,Milk",
+    "Link": "http://allrecipes.com/recipe/56927/delicious-ham-and-potato-soup/"
+  },
+  {
+    "Name": "Lemon Dill Potatoes",
+    "Rating": "????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 50,
+    "Ingredients": "Potatoes",
+    "Link": "https://tastespace.wordpress.com/2015/07/18/creamy-lemon-dill-roasted-potato-salad/"
+  },
+  {
+    "Name": "BBQ Lentils",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Lentils,Rice",
+    "Link": "https://www.rebootedmom.com/2017/08/05/barbecue-lentils-vegan-gluten-free-and-dairy-free/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes"
+  },
+  {
+    "Name": "Healthy Buckwheat Soup",
+    "Rating": "???",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Buckwheat,Carrots,Onion",
+    "Link": "http://momsdish.com/recipe/385/healthy-buckwheat-soup"
+  },
+  {
+    "Name": "Buckwheat Chicken Pilaf",
+    "Rating": "?????",
+    "Ease of Prep": "Hard",
+    "Type": "Main Dish",
+    "Prep Time": 120,
+    "Ingredients": "Buckwheat,Carrots,Chicken,Onion",
+    "Link": "https://natashaskitchen.com/buckwheat-and-beef-pilaf-plov/"
+  },
+  {
+    "Name": "Vegetable Noodle Soup",
+    "Rating": "????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 40,
+    "Ingredients": "Carrots,Noodles",
+    "Link": "http://thevegan8.com/2014/10/18/classic-vegan-noodle-soup/"
+  },
+  {
+    "Name": "Bacon and Honey Potato Salad",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Potatoes,Bacon",
+    "Link": "https://www.smalltownwoman.com/warm-bacon-honey-mustard-potato-salad/"
+  },
+  {
+    "Name": "Pretzel Sticks",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Baking Basics",
+    "Prep Time": 60,
+    "Ingredients": "Eggs,Flour,Yeast",
+    "Link": "https://gatherforbread.com/german-soft-pretzel-sticks/"
+  },
+  {
+    "Name": "Golden French Lentil Soup",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Lentils",
+    "Link": "https://www.veggiesdontbite.com/vegan-lentil-stew-oh-she-glows-every-day/"
+  },
+  {
+    "Name": "Lentil Shepherd's Pie",
+    "Rating": "?????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 90,
+    "Ingredients": "Lentils,Carrots,Onion,Peas,Potatoes",
+    "Link": "https://itdoesnttastelikechicken.com/seriously-the-best-lentil-shepherds-pie/"
+  },
+  {
+    "Name": "Honey Lime Chicken",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Chicken,Rice",
+    "Link": "http://www.juliasalbum.com/2015/09/cilantro-lime-honey-chicken-thighs-recipe/"
+  },
+  {
+    "Name": "Lentil Curry",
+    "Rating": "??",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Lentils,Carrots,Onion",
+    "Link": "https://www.forksoverknives.com/recipes/indian-curry-lentils/#gs.lUICmXM"
+  },
+  {
+    "Name": "Dutch Oven Bread",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Baking Basics",
+    "Prep Time": 60,
+    "Ingredients": "Flour,Yeast",
+    "Link": "http://www.nutritiouseats.com/rosemary-dutch-oven-bread/"
+  },
+  {
+    "Name": "Potato Apple Roast",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Apple,Potatoes,Ham",
+    "Link": "https://www.healthyseasonalrecipes.com/roasted-potatoes-with-apples-sausage-and-maple-mustard-glaze/"
+  },
+  {
+    "Name": "Baking Powder Biscuits",
+    "Rating": "????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Baking Basics",
+    "Prep Time": 30,
+    "Ingredients": "Flour,Milk,Eggs",
+    "Link": "https://www.kingarthurflour.com/recipes/baking-powder-biscuits-recipe"
+  },
+  {
+    "Name": "Sugar Cookies",
+    "Rating": "?????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Baking Basics",
+    "Prep Time": 25,
+    "Ingredients": "Flour,Eggs",
+    "Link": "https://deliciouslysprinkled.com/soft-sugar-cookies/"
+  },
+  {
+    "Name": "Potato Curry",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 35,
+    "Ingredients": "Potatoes,Vegetarian",
+    "Link": "http://www.savorytooth.com/easy-weeknight-potato-curry/"
+  },
+  {
+    "Name": "Bucatini all'Amatriciana",
+    "Rating": "????",
+    "Ease of Prep": "Hard",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Noodles,Tomatoes,Bacon",
+    "Link": "https://www.bonappetit.com/recipe/bucatini-all-amatriciana-2"
+  },
+  {
+    "Name": "Brioche Chocolate Rolls",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Baking Basics",
+    "Prep Time": 120,
+    "Ingredients": "Flour,Eggs,Yeast,Fish",
+    "Link": "https://tutti-dolci.com/2013/11/brioche-rolls-with-chocolate/"
+  },
+  {
+    "Name": "Naan",
+    "Rating": "?????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Baking Basics",
+    "Prep Time": 45,
+    "Ingredients": "Milk,Yogurt,Flour,Yeast",
+    "Link": "https://food52.com/recipes/24144-homemade-naan?utm_source=cj&affil=cj&utm_medium=affiliate&utm_campaign=Food52+Shop&company=Skimlinks&website=7262954"
+  },
+  {
+    "Name": "Lemon Poppy Seed Scones",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Baking Basics",
+    "Prep Time": 30,
+    "Ingredients": "Flour,Butter,Sour Cream",
+    "Link": "http://barefootandbaking.blogspot.ru/2012/05/lemon-poppy-seed-scones.html"
+  },
+  {
+    "Name": "Balsamic Dijon Root Vegetables",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 150,
+    "Ingredients": "Potatoes,Onion,Carrots,Parsnips",
+    "Link": "http://www.thecreativebite.com/balsamic-dijon-roasted-root-vegetables/"
+  },
+  {
+    "Name": "Best Baked Chicken Legs",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 90,
+    "Ingredients": "Chicken,Rice",
+    "Link": "https://www.blessthismessplease.com/chicken-legs/?m"
+  },
+  {
+    "Name": "Spanish Lentil Soup",
+    "Rating": "",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Ham,Lentils",
+    "Link": "http://www.myrecipes.com/recipe/spanish-style-lentil-soup"
+  },
+  {
+    "Name": "Chocolate Chip Irish Soda Bread",
+    "Rating": "??",
+    "Ease of Prep": "Average",
+    "Type": "Baking Basics",
+    "Prep Time": 60,
+    "Ingredients": "Flour,Chocolate Chips",
+    "Link": "http://www.delish.com/cooking/recipe-ideas/recipes/a51728/irish-soda-bread-recipe/"
+  },
+  {
+    "Name": "Malteese Gilatti",
+    "Rating": "??",
+    "Ease of Prep": "Average",
+    "Type": "Baking Basics",
+    "Prep Time": 120,
+    "Ingredients": "Flour,Butter,Yeast",
+    "Link": "http://www.ilovefood.com.mt/recipes/galletti-recipe/"
+  },
+  {
+    "Name": "Buckwheat Carrot and Onion",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 40,
+    "Ingredients": "Buckwheat,Carrots,Onion",
+    "Link": "http://www.pinchofcinnamon.com/2011/12/cooking-buckwheat.html"
+  },
+  {
+    "Name": "Sweet Potatoes with Yogurt and Chickpeas",
+    "Rating": "?????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Chickpeas,Potatoes,Yogurt,Eggs",
+    "Link": "https://www.prevention.com/food/10-healthy-chickpea-recipes/slide/9"
+  },
+  {
+    "Name": "Spanish Chickpeas",
+    "Rating": "?????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Chickpeas,Flour,Yogurt,Onion,Eggs",
+    "Link": "https://www.prevention.com/food/10-healthy-chickpea-recipes/slide/3"
+  },
+  {
+    "Name": "Lemon Fettuchini",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Noodles,Coconut milk",
+    "Link": "https://veganheaven.org/recipe/lemon-spaghetti-with-spinach/"
+  },
+  {
+    "Name": "Chickpea Masala",
+    "Rating": "?????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 40,
+    "Ingredients": "Chickpeas,Flour,Yogurt,Eggs",
+    "Link": ""
+  },
+  {
+    "Name": "Chickpea Broccoli Pesto",
+    "Rating": "???",
+    "Ease of Prep": "Super Simple",
+    "Type": "Side Dish",
+    "Prep Time": 40,
+    "Ingredients": "Broccoli,Chickpeas",
+    "Link": ""
+  },
+  {
+    "Name": "Thai Veggie Soup",
+    "Rating": "???",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Coconut milk,Noodles",
+    "Link": "https://www.budgetbytes.com/thai-curry-vegetable-soup/"
+  },
+  {
+    "Name": "Buttery Herb Chicken",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 20,
+    "Ingredients": "Chicken,Rice",
+    "Link": ""
+  },
+  {
+    "Name": "Rosemary Parsnips",
+    "Rating": "?????",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 35,
+    "Ingredients": "Parsnips",
+    "Link": ""
+  },
+  {
+    "Name": "Balsamic Potatoes and Asparagus",
+    "Rating": "???",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 40,
+    "Ingredients": "Potatoes,Asparagus",
+    "Link": "http://wallflowerkitchen.com/balsamic-roasted-new-potatoes-asparagus/"
+  },
+  {
+    "Name": "Quinoa Brussels Sweet Potato Salad",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 40,
+    "Ingredients": "Quinoa,Brussels Sprouts ,Sweet potato",
+    "Link": "https://laurenkellynutrition.com/sweet-potato-brussels-sprout-quinoa-bowl/"
+  },
+  {
+    "Name": "Thai Peanut Cabbage Quinoa",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 20,
+    "Ingredients": "Quinoa,Cabbage,Peanut",
+    "Link": "https://cookieandkate.com/2017/thai-peanut-quinoa-salad-recipe/"
+  },
+  {
+    "Name": "Lemon Garlic Asparagus with Orzo",
+    "Rating": "???",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Orzo,Asparagus",
+    "Link": "https://www.thegardengrazer.com/2018/03/lemon-garlic-orzo-with-asparagus.html"
+  },
+  {
+    "Name": "Moroccan Sweet Potato Lentil Stew",
+    "Rating": "???",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Sweet potato,Lentils,Spinach,Onion,Carrots",
+    "Link": "https://monkeyandmekitchenadventures.com/moroccan-sweet-potato-lentil-stew/"
+  },
+  {
+    "Name": "Chia Crusted Salmon",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 20,
+    "Ingredients": "Salmon,Chia",
+    "Link": "https://houseandhome.com/recipe/chia-crusted-salmon-recipe/"
+  },
+  {
+    "Name": "Pinto Beans and Tomatillo Cilantro Lime Rice",
+    "Rating": "?????",
+    "Ease of Prep": "Hard",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Beans,Rice,Onion,Tomatillo,Lime,Garlic",
+    "Link": "https://www.thecuriouschickpea.com/mexican-pinto-beans-and-tomatillo-cilantro-lime-rice/"
+  },
+  {
+    "Name": "Thai Squash Soup",
+    "Rating": "???",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Squash,Coconut milk,Peanut,Onion,Garlic,Carrots,Cilantro",
+    "Link": "http://hostthetoast.com/thai-coconut-curry-butternut-squash-soup/"
+  },
+  {
+    "Name": "Roasted Carrot & Peanut Sauce",
+    "Rating": "?????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 75,
+    "Ingredients": "Carrots,Peanut,Cilantro",
+    "Link": "https://pinchofyum.com/lentil-curry-bowls-with-cilantro-cashew-sauce"
+  },
+  {
+    "Name": "Majoram White Wine Chicken",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 120,
+    "Ingredients": "Chicken,Wine",
+    "Link": "https://www.foodandwine.com/recipes/wine-baked-chicken-legs-with-marjoram"
+  },
+  {
+    "Name": "Marjoram Carrots",
+    "Rating": "?????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Side Dish",
+    "Prep Time": 30,
+    "Ingredients": "Carrots,Garlic",
+    "Link": "https://www.foodandwine.com/recipes/sauteed-carrots-lemon-and-marjoram"
+  },
+  {
+    "Name": "Soy Mustard Salmon",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 20,
+    "Ingredients": "Salmon,Soy Sauce,Dijon Mustard,Garlic,Ginger",
+    "Link": ""
+  },
+  {
+    "Name": "Chive Butter Radishes",
+    "Rating": "",
+    "Ease of Prep": "",
+    "Type": "",
+    "Prep Time": "",
+    "Ingredients": "",
+    "Link": ""
+  },
+  {
+    "Name": "Mango Chutney",
+    "Rating": "???",
+    "Ease of Prep": "Average",
+    "Type": "Side Dish",
+    "Prep Time": 30,
+    "Ingredients": "Mango,Cheese,Apple,Raisins,Bell Pepper,Jalopeno Pepper",
+    "Link": ""
+  },
+  {
+    "Name": "Vegetarian Chili",
+    "Rating": "",
+    "Ease of Prep": "",
+    "Type": "Main Dish",
+    "Prep Time": "",
+    "Ingredients": "Vegetarian,Tomatoes",
+    "Link": ""
+  },
+  {
+    "Name": "Sweet Potato Breakfast Burritos",
+    "Rating": "????",
+    "Ease of Prep": "",
+    "Type": "Main Dish",
+    "Prep Time": "",
+    "Ingredients": "Sweet potato",
+    "Link": "https://www.ambitiouskitchen.com/healthy-sweet-potato-black-bean-avocado-breakfast-burritos/"
+  },
+  {
+    "Name": "Roasted Sweet Potato Lentil Salad",
+    "Rating": "?????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Salad",
+    "Prep Time": 45,
+    "Ingredients": "Lentils,Sweet potato,Spinach,celery",
+    "Link": "https://www.melskitchencafe.com/roasted-sweet-potato-lentil-salad/"
+  },
+  {
+    "Name": "Cornbread",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Side Dish",
+    "Prep Time": 40,
+    "Ingredients": "Butter,Milk,Flour,Corn Meal,Baking Powder",
+    "Link": ""
+  },
+  {
+    "Name": "Brussel Honey Lentil Quinoa",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": "",
+    "Ingredients": "Brussels Sprouts ,Quinoa,Lentils,Onion",
+    "Link": "https://www.thekitchn.com/recipe-honey-roasted-sprouts-and-lentils-and-quinoa-249782"
+  },
+  {
+    "Name": "Lentil Sweet Potato Curry",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Sweet potato,Apple,Lentils,Onion,Garlic,Tomatoes,Rice",
+    "Link": ""
+  },
+  {
+    "Name": "Gnocci and white beans",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Beans,Spinach,Tomatoes,gnocchi,Cheese",
+    "Link": ""
+  },
+  {
+    "Name": "Pad Thai",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Vegetarian,Noodles",
+    "Link": ""
+  },
+  {
+    "Name": "Kung Pao Chicken",
+    "Rating": "??",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": "",
+    "Ingredients": "Chicken,Peanut,Water chestnuts",
+    "Link": ""
+  },
+  {
+    "Name": "Mediterranean Tuna Steaks",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": "",
+    "Ingredients": "Tuna,Capers",
+    "Link": "https://howtofeedaloon.com/mediterranean-tuna-steaks/"
+  },
+  {
+    "Name": "Spicy Black Bean Nachos",
+    "Rating": "??",
+    "Ease of Prep": "",
+    "Type": "Main Dish",
+    "Prep Time": "",
+    "Ingredients": "Beans,Adobo Chile",
+    "Link": "https://www.mexicanplease.com/spicy-black-bean-nachos/"
+  },
+  {
+    "Name": "Tomato Basil Soup",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Tomatoes,Basil",
+    "Link": ""
+  },
+  {
+    "Name": "Chewy Chocolate Chip COokies",
+    "Rating": "?????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Dessert",
+    "Prep Time": 30,
+    "Ingredients": "Butter,Chocolate Chips,Flour",
+    "Link": "https://www.ihearteating.com/chewy-brown-sugar-chocolate-chip-cookie-recipe/"
+  },
+  {
+    "Name": "Quinoa Peanut Kale Curry",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Quinoa,Kale,Peanut,Cilantro,Onion,Coconut milk",
+    "Link": "https://www.cookinglight.com/recipes/chickpea-and-kale-curry"
+  },
+  {
+    "Name": "Sweet Potato Lentil Curry with Pickled Onion",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 60,
+    "Ingredients": "Sweet potato,Red onion,Lentils,Ginger,Coconut milk,Cilantro",
+    "Link": "https://www.cookinglight.com/recipes/sweet-potato-and-red-lentil-curry"
+  },
+  {
+    "Name": "Sardine Mediterranean Pasta",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Sardine,Capers,Shallots,Lemon,Parsley",
+    "Link": "https://toriavey.com/toris-kitchen/mediterranean-sardine-lemon-pasta/"
+  },
+  {
+    "Name": "Prosciutto apple flatbread pizza",
+    "Rating": "???",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 45,
+    "Ingredients": "Apple,Prosciutto,Cheese",
+    "Link": ""
+  },
+  {
+    "Name": "Dill Cucumber Salmon",
+    "Rating": "????",
+    "Ease of Prep": "Average",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Fish,Yogurt,Cucumber,Dill,Broccoli,Red onion",
+    "Link": ""
+  },
+  {
+    "Name": "Vegetable Couscous",
+    "Rating": "?????",
+    "Ease of Prep": "",
+    "Type": "Main Dish",
+    "Prep Time": "",
+    "Ingredients": "Couscous,Green Onion,Carrots",
+    "Link": ""
+  },
+  {
+    "Name": "Talapia Tacos",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "Tilapia",
+    "Link": ""
+  },
+  {
+    "Name": "Roasted Mackerel",
+    "Rating": "",
+    "Ease of Prep": "",
+    "Type": "",
+    "Prep Time": "",
+    "Ingredients": "",
+    "Link": ""
+  },
+  {
+    "Name": "Lentil Salsa Soup",
+    "Rating": "????",
+    "Ease of Prep": "",
+    "Type": "",
+    "Prep Time": "",
+    "Ingredients": "",
+    "Link": ""
+  },
+  {
+    "Name": "Pesto Tomato Penne",
+    "Rating": "???",
+    "Ease of Prep": "Super Simple",
+    "Type": "Main Dish",
+    "Prep Time": 20,
+    "Ingredients": "Pesto",
+    "Link": "https://www.foodnetwork.com/recipes/giada-de-laurentiis/penne-with-sun-dried-tomato-pesto-recipe-1942250"
+  },
+  {
+    "Name": "Black Bean Soup",
+    "Rating": "????",
+    "Ease of Prep": "Fairly Easy",
+    "Type": "Main Dish",
+    "Prep Time": 30,
+    "Ingredients": "",
+    "Link": ""
+  },
+  {
+    "Name": "Balsamic Pork Chops",
+    "Rating": "",
+    "Ease of Prep": "",
+    "Type": "",
+    "Prep Time": "",
+    "Ingredients": "",
+    "Link": ""
+  }
+]

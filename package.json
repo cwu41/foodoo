@@ -1,0 +1,22 @@
+{
+  "name": "sbhacks",
+  "version": "1.0.0",
+  "description": "temp",
+  "main": "temprecipe.json",
+  "scripts": {
+    "test": "j"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "1",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "firebase": "^7.6.2",
+    "firestore-export-import": "^0.3.2"
+  }
+}
