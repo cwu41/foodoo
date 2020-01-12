@@ -26,19 +26,31 @@ function updatePost(e){
 }
 */
 
-console.log('fire', firebase)
+//console.log('fire', firebase)
 database = firebase.database();
 var ref = database.ref('temp')
 ref.once('value', gotData, errData)
 
 function gotData(data){
-  var recipes = data.val();
+  var recipes = data.val().zfIsIZGVBSp7mcSKzkNE;
+  let ingrdntMap = {};
+
   for (var i = 0; i < recipes.length; i++){
-    var Name = recipes[i].Name;
-    var Ingredients = recipes[i].Ingredients;
-    //var PrepTime = recipes[i].PrepTime;
-    console.log(Name, Ingredients);
+    var ingredients = recipes[i].Ingredients.split(",");
+    
+    for (var j = 0; j < ingredients.length; j++) {
+      var keySet = new Set(Object.keys(ingrdntMap));
+      if (!keySet.has(ingredients[j])) {
+        ingrdntMap[ingredients[j]] = new Set();
+        ingrdntMap[ingredients[j]].add(recipes[i]);
+      } else {
+        ingrdntMap[ingredients[j]].add(recipes[i]);
+      } 
+    }
+    
   }
+  // ingrdntMap maps each ingredient to every recipe in the database
+  //console.log(ingrdntMap);
 }
 
 function errData(err){
