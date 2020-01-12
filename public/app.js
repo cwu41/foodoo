@@ -15,6 +15,7 @@ document.addEventListener("DOMContentLoaded",event =>{
     console.log(snap.val());
   })
 
+
 });
 
 /*
@@ -32,16 +33,16 @@ ref.once('value', gotData, errData)
 
 function gotData(data){
   var recipes = data.val();
-  console.log(recipes.length);
   for (var i = 0; i < recipes.length; i++){
     var Name = recipes[i].Name;
     var Ingredients = recipes[i].Ingredients;
+    //var PrepTime = recipes[i].PrepTime;
     console.log(Name, Ingredients);
   }
 }
 
 function errData(err){
-  console.log('Error!');
+  console.log('Error! himomb');
   console.log(err);
 }
 
