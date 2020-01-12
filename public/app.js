@@ -77,6 +77,7 @@ function gotData(data){
 
   }
   // ingrdntMap maps each ingredient to every recipe in the database
+
   console.log(ingrdntMap);
   var keySet = new Set(Object.keys(ingrdntMap));
   for (ingredient of keySet) {
@@ -86,6 +87,10 @@ function gotData(data){
     }
     $("#recipelist").append($("<br>"));
   }
+
+  //console.log(ingrdntMap);
+  console.log(Object.keys(ingrdntMap))
+
 }
 
 function errData(err){
