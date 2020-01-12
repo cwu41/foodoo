@@ -51,6 +51,7 @@ function gotData(data){
   }
   // ingrdntMap maps each ingredient to every recipe in the database
   //console.log(ingrdntMap);
+  console.log(Object.keys(ingrdntMap))
 }
 
 function errData(err){
