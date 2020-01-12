@@ -34,13 +34,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
   //})
 });
 
-/*
-function updatePost(e){
-  const db = firebase.firestore();
-  const myPost = db.collection('posts').doc('firstpost');
-  myPost.update({title: e.target.value})
-}
-*/
+
 
 //console.log('fire', firebase)
 database = firebase.database();
@@ -97,12 +91,6 @@ function errData(err){
   console.log('Error! himomb');
   console.log(err);
 }
-
-function addToRecent(){
-
-}
-
-
 
 /*
 function googleLogin(){

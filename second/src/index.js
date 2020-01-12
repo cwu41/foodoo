@@ -1,20 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { Container, Header, List } from "semantic-ui-react";
-import Example from "./example";
-import * as firebase from 'firebase';
+import { Container, Header } from "semantic-ui-react";
+import FirebaseApp from "./firebase";
 
-const firebaseConfig = {
-  apiKey: "AIzaSyC6fiemjMHEvvHG37NeorbUsZX1eBumA18",
-  authDomain: "foodoo-project.firebaseapp.com",
-  databaseURL: "https://foodoo-project.firebaseio.com",
-  projectId: "foodoo-project",
-  storageBucket: "foodoo-project.appspot.com",
-  messagingSenderId: "256411486158",
-  appId: "1:256411486158:web:eb4ddbd4b971d27687cd9f",
-  measurementId: "G-QBBT57PHNX"
-};
-firebase.initializeApp(firebaseConfig);
 
 const App = ({ children }) => (
   <Container style={{ margin: 20 }}>
@@ -35,7 +23,7 @@ document.head.appendChild(styleLink);
 
 ReactDOM.render(
   <App>
-    <Example />
+    <FirebaseApp/>
   </App>,
   document.getElementById("root")
 );
