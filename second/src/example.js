@@ -16,43 +16,112 @@ const useStyles = makeStyles(theme => ({
     },
   }));
 
-export default function Filtered() {  
-    const classes = useStyles();
-    const options = ingredientList.map(option => {
-        const firstLetter = option.title[0].toUpperCase();
-        return {
-            firstLetter: /[0-9]/.test(firstLetter) ? '0-9' : firstLetter,
-            ...option,
-        };
-    });
 
-  return (
-    <div className={classes.root}>
-    <form>
-    <Autocomplete
-      multiple
-      id="tags-outlined"
-      options={options.sort((a, b) => -b.firstLetter.localeCompare(a.firstLetter))}
-      groupBy={option => option.firstLetter}
-      getOptionLabel={option => option.title}
-      filterSelectedOptions
-      renderInput={params => (
-        <TextField
-          {...params}
-          variant="outlined"
-          label="Choose Ingredients"
-          placeholder="Beef"
-          fullWidth
+class IngredientForm extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {ingredients: ''};
+    this.options = ingredientList.map(option => {
+      const firstLetter = option.title[0].toUpperCase();
+      return {
+          firstLetter: /[0-9]/.test(firstLetter) ? '0-9' : firstLetter,
+          ...option,
+      };
+    });
+    //this.classes = useStyles();
+
+    this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
+  }
+
+  // VALUE IS THE INPUT, DONT DELETE VALUE AS A PARAM
+  handleChange(event, value) {
+    console.log(event, value);
+    this.setState({value: event.target.value});
+  }
+
+  handleSubmit(event) {
+    alert('A name was submitted: ' + this.state.value);
+    event.preventDefault();
+  }
+
+  render() {
+    return (
+      <form onSubmit={this.handleSubmit}>
+        <Autocomplete
+          multiple
+          id="tags-outlined"
+          options={this.options.sort((a, b) => -b.firstLetter.localeCompare(a.firstLetter))}
+          groupBy={option => option.firstLetter}
+          getOptionLabel={option => option.title}
+          filterSelectedOptions
+          onChange={this.handleChange}
+          renderInput={params => (
+            <TextField
+              {...params}
+              variant="outlined"
+              label="Choose Ingredients"
+              placeholder="Beef"
+              fullWidth
+              
+            />
+          )}
         />
-      )}
-    />
-    </form>
-    <Button variant="contained" color="primary" disableElevation onClick={e => alert(e.target.value)}>
-      Get Recipes!
-    </Button>
-    </div>
-  );
+        <Button type="submit" variant="contained" color="primary" disableElevation onClick={e => alert(e.target.value)}>
+          Get Recipes!
+        </Button>
+      </form>
+    );
+  }
 }
+
+export default IngredientForm;
+
+
+
+// export default function Filtered() {  
+//     const classes = useStyles();
+//     const options = ingredientList.map(option => {
+//         const firstLetter = option.title[0].toUpperCase();
+//         return {
+//             firstLetter: /[0-9]/.test(firstLetter) ? '0-9' : firstLetter,
+//             ...option,
+//         };
+//     });
+
+//     function handleSubmit(event) {
+//       console.log(event.target);
+//       event.preventDefault();
+//     }
+    
+//   return (
+//     <div className={classes.root}>
+//     <form onSubmit={handleSubmit}>
+//     <Autocomplete
+//       multiple
+//       id="tags-outlined"
+//       options={options.sort((a, b) => -b.firstLetter.localeCompare(a.firstLetter))}
+//       groupBy={option => option.firstLetter}
+//       getOptionLabel={option => option.title}
+//       filterSelectedOptions
+//       renderInput={params => (
+//         <TextField
+//           {...params}
+//           variant="outlined"
+//           label="Choose Ingredients"
+//           placeholder="Beef"
+//           fullWidth
+//         />
+//       )}
+//     />
+//     <Button type="submit" variant="contained" color="primary" disableElevation onClick={e => alert(e.target.value)}>
+//       Get Recipes!
+//     </Button>
+//     </form>
+    
+//     </div>
+//   );
+// }
 
 const ingredientList = [
   { title: 'Chicken'},
