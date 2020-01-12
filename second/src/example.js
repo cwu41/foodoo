@@ -4,10 +4,11 @@ import Chip from '@material-ui/core/Chip';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 import { makeStyles } from '@material-ui/core/styles';
 import TextField from '@material-ui/core/TextField';
+import Button from '@material-ui/core/Button';
 
 const useStyles = makeStyles(theme => ({
     root: {
-        textAlign: center,
+        //textAlign: center,
       width: 500,
       '& > * + *': {
         marginTop: theme.spacing(3),
@@ -17,7 +18,7 @@ const useStyles = makeStyles(theme => ({
 
 export default function Filtered() {  
     const classes = useStyles();
-    const options = top100Films.map(option => {
+    const options = ingredientList.map(option => {
         const firstLetter = option.title[0].toUpperCase();
         return {
             firstLetter: /[0-9]/.test(firstLetter) ? '0-9' : firstLetter,
@@ -27,6 +28,7 @@ export default function Filtered() {
 
   return (
     <div className={classes.root}>
+    <form>
     <Autocomplete
       multiple
       id="tags-outlined"
@@ -44,12 +46,15 @@ export default function Filtered() {
         />
       )}
     />
+    </form>
+    <Button variant="contained" color="primary" disableElevation onClick={e => alert(e.target.value)}>
+      Get Recipes!
+    </Button>
     </div>
   );
 }
 
-// Top 100 films as rated by IMDb users. http://www.imdb.com/chart/top
-const top100Films = [
+const ingredientList = [
   { title: 'Chicken'},
   { title: 'Kielbasa'},
   { title: 'Noodles'},
@@ -133,3 +138,4 @@ const top100Films = [
   { title: 'Tilapia'},
   { title: 'Pesto'},
 ];
+
